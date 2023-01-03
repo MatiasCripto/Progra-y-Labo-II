@@ -1,0 +1,15 @@
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\solucion_1.exe
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\solucion_1.deps.json
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\solucion_1.runtimeconfig.json
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\solucion_1.runtimeconfig.dev.json
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\solucion_1.dll
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\ref\solucion_1.dll
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\bin\Debug\net5.0\solucion_1.pdb
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.dll
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\ref\solucion_1.dll
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.pdb
+C:\Users\Pablo\source\repos\solucion_1\solucion_1\obj\Debug\net5.0\solucion_1.genruntimeconfig.cache
